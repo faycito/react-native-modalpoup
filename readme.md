@@ -4,7 +4,7 @@ A react-native Modal / Popup component for Android & iOS.
 ###Donate
 It helps to me.
 I will appreciated for that
-[a link](PayPal.Me/ismaalexmalcacastr)
+[Donate](https://PayPal.Me/ismaalexmalcacastr)
 
 ## Features
 - Pure JS.
@@ -15,7 +15,7 @@ I will appreciated for that
 
 
 ## Demo
-<img src="https://media.giphy.com/media/5bxpH5LcGO33zKAHkS/giphy.gif" width = "160" height = "287.5" alt="Demo 1"/> 
+<img src="https://media.giphy.com/media/5bxpH5LcGO33zKAHkS/giphy.gif" width = "260" height = "387.5" alt="Demo 1"/> 
 
 ## Installation
 ```sh
