@@ -1,0 +1,24 @@
+{
+  "name": "react-native-modalpopup",
+  "version": "1.0.0",
+  "description": "A simple Modal or Popup for your react native projects! :D",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "modal",
+    "react-native-modal",
+    "react-native-modalpopup",
+    "react",
+    "native",
+    "modal",
+    "react",
+    "native",
+    "popup"
+  ],
+  "author": "Ismael Alexander 'Faycito' Malca Castro. - © Peru 2018 - email: ismaelalexandermc@gmail.com",
+  "license": "ISC"
+}
