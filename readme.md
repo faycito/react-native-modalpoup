@@ -15,7 +15,7 @@ I will appreciated for that
 
 
 ## Demo
-<img src="https://media.giphy.com/media/5bxpH5LcGO33zKAHkS/giphy.gif" width = "260" height = "387.5" alt="Demo 1"/> 
+<img src="https://media.giphy.com/media/5bxpH5LcGO33zKAHkS/giphy.gif" width = "260" height = "487.5" alt="Demo 1"/> 
 
 ## Installation
 ```sh
