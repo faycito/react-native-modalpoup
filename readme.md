@@ -55,7 +55,7 @@ Prop                | Type     | Optional | Default   | Description
 ------------------- | -------- | -------- | --------- | -----------
 `title`             | string   | Yes      |    -      | Add title to Modal / Popup
 `titleStyle`        | object   | Yes      | {{textAlign:'center',color:'#757575', fontSize:18, margin:16,  marginBottom: 10} | Styles for the Title, see Text style props in react native documentation for more.
-`onTouchOutside`      | function   | NO - Required   |  - | Do you want to do
+`onTouchOutside`      | function   | NO - Required   |  - | Do you want to do when you'll click outside space.
 `isVisible`           | boolean    | NO - Required    |  false |  Show and hide Modal / Popup
 
 ## Next version
