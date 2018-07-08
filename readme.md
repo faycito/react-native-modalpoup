@@ -1,7 +1,7 @@
 # react-native-modalpopup
 A react-native Modal / Popup component for Android & iOS.
 
-###Donate
+### Donate
 It helps to me.
 I will appreciated for that
 [Donate](https://PayPal.Me/ismaalexmalcacastr)
@@ -29,7 +29,7 @@ Import  module:
 import { ModalPopup } from 'react-native-modalpopup';
 ```
 
-###Using
+### Using
 ```javascript
 <ModalPopup
     title='Hello world'
